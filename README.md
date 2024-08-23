@@ -5,3 +5,8 @@ Ich möchte meine Zeit im Lernatelier am meisten an den Modulen benutzen, da mei
 ## 16.08.2024
 
 Heute werde ich mein Wissen beim Modul 320 und Modul 231 auffrischen, damit ich so wenig Probleme wie möglich habe. 
+
+
+## 23.08.2024
+
+Heute werde ich die Modulabgaben von 231 fertigstellen, weil wir vom Lehrer die Aufgabe bekommen haben, bis Sonntagabend die Abgaben abzugeben.
