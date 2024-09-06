@@ -13,8 +13,8 @@ Heute werde ich die Modulabgaben von 231 fertigstellen, weil wir vom Lehrer die 
 
 ## 30.08.2024
 
-Heute ist meine höchste Priorität, die schweren Moodle-Aufgaben vom Modul 231 fertigzustellen, da alle Parnterarbeit sind und es sonst zu schwer wäre es alleine zu machen. Als nächstes muss ich mein Wissen Modul 322 auffrischen.
+Heute ist meine höchste Priorität, die schweren Moodle-Aufgaben vom Modul 231 fertigzustellen, da alle Parnterarbeit sind und es sonst zu schwer wäre es alleine zu machen. Als nächstes muss ich mein Wissen Modul 320 auffrischen.
 
 ## 06.09.2024
 
-Heute soll ich ein kleines Programm beginnen, in Form von OOP, damit ich mein Wissen von Modul 322 befestigen kann und dann sind noch kleine Abgaben, die ich fertigstellen kann, verfügbar.
+Heute soll ich ein kleines Programm beginnen, in Form von OOP, damit ich mein Wissen von Modul 320 befestigen kann und dann sind noch kleine Abgaben, die ich fertigstellen kann, verfügbar.
