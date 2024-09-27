@@ -18,3 +18,14 @@ Heute ist meine höchste Priorität, die schweren Moodle-Aufgaben vom Modul 231 
 ## 06.09.2024
 
 Heute soll ich ein kleines Programm beginnen, in Form von OOP, damit ich mein Wissen von Modul 320 befestigen kann und dann sind noch kleine Abgaben, die ich fertigstellen kann, verfügbar.
+
+## 13.09.2024
+
+Heute müsste ich für das Modul 322 vorarbeiten, damit ich keinen Stress habe bei der LB-Abgabe keinen Stress bekomme. Im heutigem Lernatelierarbeitsblock wird am OOP weitergearbeitet, wo ich die override Funktion und Polymorphismus probiere zu implementieren.
+
+## 20.09.2024
+
+
+
+## 27.09.2024
+
