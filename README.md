@@ -35,4 +35,4 @@ Im heutigem Lernatelierarbeitsblock wird am OOP weitergearbeitet, wo ich die ove
 
 ## 27.09.2024
 
-Heute werde ich das Programm für Modul 320 mit Assoziationen zwischen Klassen machen, wie z.B. Aggregation und Komposition. Ich werde mit meiner Gruppe noch besprechen, wer was für die OBA macht im Modul 320. Diese sollte schwer sein, sagen meine Klassenkameraden.
+Heute werde ich im Programm für Modul 320 mit Assoziationen zwischen Klassen einführen, wie z.B. Aggregation und Komposition. Ich werde mit meiner Gruppe noch besprechen, wer was für die OBA macht im Modul 320. Diese sollte schwer sein, sagen meine Klassenkameraden.
